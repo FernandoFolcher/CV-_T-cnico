@@ -4,9 +4,8 @@ Este proyecto es un CV técnico desarrollado en HTML y CSS.
 
 ## Descripción
 
-Se trata de una página web simple, moderna y responsive donde presento mi perfil profesional, tecnologías y proyectos académicos desarrollados en el área de Interfaces de Usuario.
-
-El diseño utiliza HTML semántico y estilos en CSS separados, con una estética limpia y una gama de colores en tonos naranja claros.
+Se trata de una página web simple, moderna y responsive donde presento mi perfil profesional, tecnologías y proyectos académicos.
+El diseño utiliza HTML semántico y estilos en CSS separados, con una estética limpia.
 
 ## Tecnologías utilizadas
 
@@ -24,7 +23,7 @@ El diseño utiliza HTML semántico y estilos en CSS separados, con una estética
 
 ## Ver online
 
-https://fernandofolcher.github.io/cv-tecnico/
+[https://fernandofolcher.github.io/cv-tecnico/](https://fernandofolcher.github.io/CV-_T-cnico/)
 
 ## Autor
 
